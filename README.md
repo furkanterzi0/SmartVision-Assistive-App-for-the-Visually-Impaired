@@ -22,3 +22,8 @@ A mobile application built to support visually impaired individuals in navigatin
 - **Text-to-Speech (TTS)** – For all voice feedback
 
 
+## 📸 Screenshots
+
+| Startup Screen | Traffic Light Detection | Object Detection | Safe Mode Active |
+|----------------|-------------------------|------------------|------------------|
+| ![](screenshots/startActivty.png) | ![](screenshots/mainActivty.png) | ![](screenshots/trfclght.png) | ![](screenshots/object.png) |
