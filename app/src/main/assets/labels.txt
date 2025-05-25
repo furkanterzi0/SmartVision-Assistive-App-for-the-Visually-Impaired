@@ -1,0 +1,90 @@
+Kişi
+Bisiklet
+Araba
+Motosiklet
+Uçak
+Otobüs
+Tren
+Kamyon
+Tekne
+Trafik Işığı
+Yangın Musluğu
+???
+Dur Tabelası
+Parkmetre
+Bank
+Kuş
+Kedi
+Köpek
+At
+Koyun
+İnek
+Fil
+Ayı
+Zebra
+Zürafa
+???
+Sırt Çantası
+Şemsiye
+???
+???
+El Çantası
+Kravat
+Bavul
+Frizbi
+Kayak
+Snowboard
+Spor Topu
+Uçurtma
+Beyzbol Sopası
+Beyzbol Eldiveni
+Kaykay
+Sörf Tahtası
+Tenis Raketi
+Şişe
+???
+Şarap Kadehi
+Fincan
+Çatal
+Bıçak
+Kaşık
+Kase
+Muz
+Elma
+Sandviç
+Portakal
+Brokoli
+Havuç
+Sosisli Sandviç
+Pizza
+Donut
+Kek
+Sandalye
+Kanepe
+Saksı Bitki
+Yatak
+???
+Yemek Masası
+???
+???
+Tuvalet
+???
+Televizyon
+Dizüstü Bilgisayar
+Fare
+Uzaktan Kumanda
+Klavye
+Cep Telefonu
+Mikrodalga
+Fırın
+Tost Makinesi
+Nesne
+Buzdolabı
+???
+Kitap
+Saat
+Vazo
+Makas
+Oyuncak Ayı
+Saç Kurutma Makinesi
+Diş Fırçası
