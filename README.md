@@ -24,6 +24,6 @@ A mobile application built to support visually impaired individuals in navigatin
 
 ## 📸 Screenshots
 
-| Startup Screen | Traffic Light Detection | Object Detection | Safe Mode Active |
+| Startup Screen | Main Screen| Traffic Light Detection | Object Detection (Safe Mode Active) |
 |----------------|-------------------------|------------------|------------------|
 | ![](screenshots/startActivity.png) | ![](screenshots/mainActivity.png) | ![](screenshots/trfclght.png) | ![](screenshots/object.png) |
